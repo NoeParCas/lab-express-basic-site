@@ -1,0 +1,22 @@
+body{
+    margin: 100px;
+    padding: 0;
+    background-color: beige;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 3rem;
+    padding: 10px;
+}
+
+li{
+    font-size: 2rem;
+    line-height : 45px;
+}

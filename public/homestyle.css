@@ -1,0 +1,40 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+#nav-bar{
+    background-color: white;
+    padding: 20px;
+}
+
+#nav-bar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-link{
+    text-decoration: none;
+    font-style: none;
+    font-size: 1.5rem;
+    color: black;
+}
+
+.container {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+span{
+    font-size: 1.5rem;
+}
